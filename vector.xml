@@ -1,0 +1,11 @@
+<Vector>
+   <startPoint>
+      <x>1.2</x>
+      <y>1.6</y>
+   </startPoint>
+   <endPoint>
+      <x>0.0</x>
+      <y>0.0</y>
+   </endPoint>
+   <force>1.0</force>
+</Vector>
